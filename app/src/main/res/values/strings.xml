@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetPackComposeBasics</string>
+    <string name="Demo_less">Demo Button less</string>
+    <string name="Demo_more">Demo Button more</string>
 </resources>
